@@ -1,0 +1,9 @@
+{
+  "uuid": "auto-move-to-new-workspace@raghav",
+  "name": "Auto Move to New Workspace",
+  "description": "Moves new apps to a new workspace with user-configurable settings.",
+  "version": 1,
+  "main": "extension.js",
+  "shell-version": ["47", "48"]
+}
+
